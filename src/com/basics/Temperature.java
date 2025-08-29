@@ -1,4 +1,4 @@
-package com.ayushi;
+package com.basics;
 
 import java.util.Scanner;
 

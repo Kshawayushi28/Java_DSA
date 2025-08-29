@@ -1,6 +1,4 @@
-package com.ayushi;
-
-import java.util.Scanner;
+package com.basics;
 
 public class Scan {
     public static void main(String[] args) {

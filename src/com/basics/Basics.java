@@ -1,4 +1,4 @@
-package com.ayushi;
+package com.basics;
 
 public class Basics {
     public static void main(String[] args) {
