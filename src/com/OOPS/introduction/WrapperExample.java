@@ -1,4 +1,4 @@
-package com.OOPS;
+package com.OOPS.introduction;
 
 public class WrapperExample {
     public static void main(String[] args) {
@@ -21,11 +21,13 @@ public class WrapperExample {
         // when a non primitive is final, you cannot reassign it.
 //        ayushi = new A("new object");
 
-        A obj;
+        A obj = new A("Rfjkrvei");
 
-        for(int i = 0; i < 1000000000; i++){
-            obj = new A("Random name");
-        }
+        System.out.println(obj);
+
+//        for(int i = 0; i < 1000000000; i++){
+//            obj = new A("Random name");
+//        }
     }
 
     static void swap(Integer a, Integer b) {

@@ -1,8 +1,9 @@
-package com.OOPS;
+package com.OOPS.introduction;
 
-import java.util.Arrays;
 
-public class introduction {
+import java.util.ArrayList;
+
+public class Main {
     public static void main(String[] args) {
         // store 5 roll nos
         int[] numbers = new int[5];
